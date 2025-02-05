@@ -1,4 +1,4 @@
 # testrepo
 First git hub repo 
 <br>
-Author - Mehroz 
+Author - Mehroz Ahmad
